@@ -8,9 +8,9 @@ namespace UnitTesting {
     internal class circle {
         
         public double Area(double radius) {
-            return 3.1415d * radius * radius;
+            return Math.PI * radius * radius;
         }
 
-        public double Perimeter(double radius) { return 2 * 3.1415d * radius; }
+        public double Perimeter(double radius) { return 2 * Math.PI * radius; }
     }
 }
