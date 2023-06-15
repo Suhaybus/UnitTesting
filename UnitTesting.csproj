@@ -76,13 +76,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="circle.cs" />
-    <Compile Include="CircleTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rectangle.cs" />
-    <Compile Include="RectangleTest.cs" />
+    <Compile Include="Test.cs" />
     <Compile Include="Triangle.cs" />
-    <Compile Include="TriangleTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
